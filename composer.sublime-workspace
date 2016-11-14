@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ali",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/Downloads/beans-child/tm-beans-child/functions.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans-child/css/bootstrap.css",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/home.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans-child/style.css",
+		"/C/Users/User/Downloads/Codenterprise02/Codenterprise02/index.html",
+		"/C/Users/User/Downloads/Codenterprise02/Codenterprise02/style.css",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans-child/home.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/lib/templates/structure/footer.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/lib/templates/fragments/footer.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans-child/footer.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans-child/functions.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/header.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans-child/header.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans-child/style.less",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/lib/assets/less/style.less",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/lib/templates/fragments/header.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/lib/templates/structure/header.php",
+		"/C/Users/User/Downloads/codenterprise-page2/codenterprise/style.css",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/style.css",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/lib/api/uikit/src/themes/default/alert.less",
+		"/C/xampp/htdocs/code_enterprise/wp-content/plugins/LayerSlider/static/css/layerslider.css",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/lib/assets/css/editor.min.css",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/lib/assets/less/default.less",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/lib/assets/css/editor.css",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/lib/assets/less/uikit-overwrite/article.less",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/home",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/lib/api/template/functions.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/plugins/LayerSlider/layerslider.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/plugins/LayerSlider/index.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/functions.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/lib/templates/fragments/post.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/single.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/lib/templates/structure/comments.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/page.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/index.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/lib/templates/fragments/menu.php",
+		"/C/xampp/htdocs/code_enterprise/wp-content/themes/tm-beans/lib/templates/structure/sidebar-primary.php",
+		"/C/Users/User/Desktop/DAY 1/button.html.html",
+		"/C/Users/User/Downloads/Codenterprise02.rar"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\User\\Downloads\\Codenterprise02\\Codenterprise02\\fonts"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"padTop24",
+			"BlueBtn2",
+			"blue",
+			".uk-container-center",
+			".uk-block {\n    padding-top: 50px;\n    padding-bottom: 50px;\n    position: absolute;\n}",
+			"tm-header uk-block",
+			"layer",
+			"preloaded",
+			"ls-l ls-preloaded",
+			"wordpress",
+			"this"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "composer.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 434.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
